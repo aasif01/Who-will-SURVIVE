@@ -1,10 +1,10 @@
 # Who-will-SURVIVE
 
-The project is based on predicting who will survive on sinking titanic using  Machine Learning .Find the relevant data from the sources like: Kaggle, UCI etc. Download the data set in .xlsx format from ⦁ www.kaggle.com
+The project is based on predicting who will survive on sinking titanic using  Machine Learning .Find the relevant data from the sources like: Kaggle, UCI etc. Download the data set in .csv format from ⦁ www.kaggle.com
 
 
 Steps followed to complete this project:
- Download the data set in .xlsx format from ⦁	www.kaggle.com
+ Download the data set in .csv format from ⦁	www.kaggle.com
  Import the data from the data set
  Read In and Explore the Data and then
  We're going to consider the features in the dataset and how complete they are 
